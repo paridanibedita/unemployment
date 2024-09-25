@@ -1,1 +1,18 @@
 # unemployment
+##BUSINESS PROBLEM: 
+'''Unemployment is measured by the unemployment rate which is the number of people
+who are unemployed as a percentage of the total labour force. We have seen a sharp
+increase in the unemployment rate during Covid-19, so analyzing the unemployment rate
+can be a good data science project. '''
+
+##BUSINESS OBJECTIVE : 
+'''Accurately analyse the unemployment rate.'''
+
+##BUSINESS CONSTRAINTS : 
+'''Eassy interpretability'''
+
+##SUCCESS CRITERIA: 
+'''
+1.Business success criteria:Minimize the cost of emplyment. 
+2.Economic success criteria: Decreasing the unemployment by 20%.
+3.ML success criteria : Achieve accuracy of 90%.'''
