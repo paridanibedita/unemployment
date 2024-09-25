@@ -15,4 +15,4 @@ can be a good data science project. '''
 '''
 1.Business success criteria:Minimize the cost of emplyment. 
 2.Economic success criteria: Decreasing the unemployment by 20%.
-3.ML success criteria : Achieve accuracy of 90%.'''
+3.ML success criteria : Achieve accuracy of 80%.'''
